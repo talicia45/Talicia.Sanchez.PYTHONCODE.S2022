@@ -19,7 +19,7 @@ If the sales is $1000 or greater, the rate is 6 percent
 
 """
 - Author: Talicia Sanchez
-- Date Created: April 4, 2022
+- Date Created: April 30, 2022
 - Course: ITT103
 - Purpose:To run a salesperson information and
 received the commission rate of that salesperson.
